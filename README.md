@@ -24,8 +24,3 @@ En el archivo main.cpp, crear las siguientes clases:
 3. Clase automóvil
 4. Clase persona
 5. Función principal
-
-Parte 3: Integración con Processing
-
-Los estudiantes pueden visualizar la simulación de sus clases en Processing basándose
-en los códigos proporcionados.
