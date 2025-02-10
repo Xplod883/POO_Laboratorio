@@ -1,0 +1,35 @@
+﻿  Lab5 POO.cpp
+C:\Users\alumno\source\repos\Lab5 POO\Lab5 POO\Lab5 POO.cpp(13,1): error C2760: error de sintaxis: "public" no se esperaba aquí; se esperaba "expresión"
+C:\Users\alumno\source\repos\Lab5 POO\Lab5 POO\Lab5 POO.cpp(13,1): error C2098: token inesperado después del miembro de datos 'stock'
+C:\Users\alumno\source\repos\Lab5 POO\Lab5 POO\Lab5 POO.cpp(13,1): error C2059: error de sintaxis: 'public'
+C:\Users\alumno\source\repos\Lab5 POO\Lab5 POO\Lab5 POO.cpp(55,2): error C3861: 'getline': no se encontró el identificador
+C:\Users\alumno\source\repos\Lab5 POO\Lab5 POO\Lab5 POO.cpp(63,31): error C2440: '<function-style-cast>': no se puede realizar la conversión de 'initializer list' a 'Producto'
+      C:\Users\alumno\source\repos\Lab5 POO\Lab5 POO\Lab5 POO.cpp(63,31):
+      'Producto::Producto': la función no acepta 4 argumentos
+          C:\Users\alumno\source\repos\Lab5 POO\Lab5 POO\Lab5 POO.cpp(63,31):
+          al hacer coincidir la lista de argumentos '(std::string, int, float, int)'
+  
+C:\Users\alumno\source\repos\Lab5 POO\Lab5 POO\Lab5 POO.cpp(72,12): error C2039: "mostrar": no es un miembro de "Producto"
+      C:\Users\alumno\source\repos\Lab5 POO\Lab5 POO\Lab5 POO.cpp(6,7):
+      vea la declaración de 'Producto'
+  
+C:\Users\alumno\source\repos\Lab5 POO\Lab5 POO\Lab5 POO.cpp(82,16): error C2039: "obtenerCodigo": no es un miembro de "Producto"
+      C:\Users\alumno\source\repos\Lab5 POO\Lab5 POO\Lab5 POO.cpp(6,7):
+      vea la declaración de 'Producto'
+  
+C:\Users\alumno\source\repos\Lab5 POO\Lab5 POO\Lab5 POO.cpp(84,13): error C2039: "mostrar": no es un miembro de "Producto"
+      C:\Users\alumno\source\repos\Lab5 POO\Lab5 POO\Lab5 POO.cpp(6,7):
+      vea la declaración de 'Producto'
+  
+C:\Users\alumno\source\repos\Lab5 POO\Lab5 POO\Lab5 POO.cpp(96,16): error C2039: "obtenerCodigo": no es un miembro de "Producto"
+      C:\Users\alumno\source\repos\Lab5 POO\Lab5 POO\Lab5 POO.cpp(6,7):
+      vea la declaración de 'Producto'
+  
+C:\Users\alumno\source\repos\Lab5 POO\Lab5 POO\Lab5 POO.cpp(99,13): error C2039: "actualizarStock": no es un miembro de "Producto"
+      C:\Users\alumno\source\repos\Lab5 POO\Lab5 POO\Lab5 POO.cpp(6,7):
+      vea la declaración de 'Producto'
+  
+C:\Users\alumno\source\repos\Lab5 POO\Lab5 POO\Lab5 POO.cpp(109,21): error C2039: "obtenerValor": no es un miembro de "Producto"
+      C:\Users\alumno\source\repos\Lab5 POO\Lab5 POO\Lab5 POO.cpp(6,7):
+      vea la declaración de 'Producto'
+  
