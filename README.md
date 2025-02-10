@@ -1,26 +1,17 @@
-El propósito de este laboratorio es implementar los conceptos de Programación Orientada a Objetos en C++ en el entorno de desarrollo Visual Studio Community.
-Además, se busca familiarizar a los estudiantes con el uso de GitHub para la gestión de versiones.
+Transcribe el código en Visual Studio Community e intégralo en el repositorio creado el viernes 7 de febrero. Para ello, crea una nueva rama dentro del mismo repositorio y almacena el proyecto en dicha rama.
 
-Instrucciones Generales:
+El objetivo de esta actividad es practicar para el examen parcial, aplicando los diversos temas vistos en clase.
 
-1. Cada estudiante trabajará en su computadora con Visual Studio Community.
-2. Implementarán en C++ las clases que definieron previamente (Animal, Persona y Automóvil), asegurándose de incluir atributos y métodos.
-3. Publicarán su código en GitHub mediante la integración con Visual Studio.
-4. Aquellos que deseen pueden visualizar sus clases en Processing basándose en el código de referencia compartido.
+Objetivo:
+Crear un programa en C++ que permita gestionar un inventario de productos, usando funciones, ciclos, estructuras de control y programación orientada a objetos.
 
-Parte 1: Implementación en C++
+Requerimientos:
 
-Paso 1: Crear un Proyecto en Visual Studio Community
-1. Abrir Visual Studio Community.
-2. Crear un nuevo proyecto C++ Console Application.
-3. Nombrarlo como POO_Laboratorio.
-
-Paso 2: Definir las Clases
-
-En el archivo main.cpp, crear las siguientes clases:
-
-1. Clase animal
-2. Clase perro
-3. Clase automóvil
-4. Clase persona
-5. Función principal
+El programa debe permitir:
+1. Agregar productos (nombre, código, precio, cantidad en stock).
+2. Mostrar los productos disponibles.
+3. Buscar un producto por su código.
+4. Actualizar la cantidad en stock después de una venta.
+5. Calcular el valor total del inventario.
+6. Usar funciones para organizar el código.
+7. Aplicar clases para representar los productos.
